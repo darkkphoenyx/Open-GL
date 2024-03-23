@@ -2,4 +2,4 @@
 
 ### This is an ongoing presentation in the Open-GL topic.
 
-#### ---More Updated to come.---
+#### ---More Updates to come.---
